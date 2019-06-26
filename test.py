@@ -1,1 +1,1 @@
-print("Welocme to DevOps Team");
+print("Welcome to DevOps Team");
